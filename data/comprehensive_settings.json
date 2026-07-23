@@ -72,7 +72,7 @@
     "booked_transfers": [],
     "only_booked_transfers": false,
     "no_trs_except_wc": false,
-    "preseason": false,
+    "preseason": true,
     "no_opposing_play": false,
     "opposing_play_group": "position",
     "opposing_play_penalty": 0.5,
